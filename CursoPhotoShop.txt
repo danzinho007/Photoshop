@@ -1,0 +1,10 @@
+
+CTRL + J = Duplicar objeto
+
+Editar > Distorção de perspectiva 
+Fazer em volta do objeto 
+
+Camada > Duplicar Camada
+Selecionar > Área de foco
+Filtro > Galeria de Desfoque > Desfoque gaussiano
+Filtro > Galeria de Desfoque > Desfoque de giro
